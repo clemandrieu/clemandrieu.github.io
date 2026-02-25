@@ -10,7 +10,7 @@ description: "Office location"
 
 #### Mailing address
 
-Clement Andrieu  <br>
+Clement Andrieu  <br> 
 Université Gustave Eiffel  <br>
 Campus de Versailles-Satory  <br>
 25 Allée de Marronniers  <br>
