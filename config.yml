@@ -30,7 +30,7 @@ menu:
 
 params:
     description: "I am a Postdoctoral Fellow in Social Psychology at Université Gustave Eiffel."
-    author: Name
+    author: Clement Andrieu (F. A.)
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -64,14 +64,14 @@ params:
               url: papers/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
+          #  - name: Books
+          #    url: books/
             - name: Courses
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+          #  - name: Tags
+          #    url: tags/
+          #  - name: Archive
+          #    url: archive/
             - name: Blog
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -107,7 +107,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Clement Andrieu (F. A.)"
       icon: favicon.ico
       iconHeight: 18
 
