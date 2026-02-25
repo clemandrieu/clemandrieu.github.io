@@ -1,5 +1,5 @@
 baseURL: "https://clemandrieu.github.io/" 
-title: Clement F. A. Andrieu
+title: Clement Andrieu (F. A.)
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -54,7 +54,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Clement F. A. Andrieu
+          title: Clement Andrieu (F. A.)
           subtitle: "Welcome to my website! I am a Postdoctoral Fellow in Social Psychology at Université Gustave Eiffel."
           imageUrl: "picture.jpeg"
           imageWidth: 160
