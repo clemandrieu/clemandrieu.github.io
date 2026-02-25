@@ -100,8 +100,8 @@ params:
 #          url: https://bsky.app/profile/pmichaillat.bsky.social
 #       - name: orcid
 #        url: https://orcid.org/0000-0003-4158-3049
-       - name: LinkedIn
-          url: www.linkedin.com/in/clement-andrieu/
+      - name: linkedin
+        url: https://www.linkedin.com/in/clement-andrieu/
 
     assets:
         disableScrollBarStyle: true
