@@ -10,19 +10,19 @@ description: "Office location"
 
 #### Mailing address
 
-Clement Andrieu  
-Université Gustave Eiffel  
-Campus de Versailles-Satory  
-25 Allée de Marronniers  
-Versailles, France  
+Clement Andrieu  <br>
+Université Gustave Eiffel  <br>
+Campus de Versailles-Satory  <br>
+25 Allée de Marronniers  <br>
+Versailles, France  <br>
 
 ---
 
 #### Office address
 
-Bureau 235  
-Campus de Versailles-Satory  
-Université Gustave Eiffel  
+Bureau 235  <br>
+Campus de Versailles-Satory  <br>
+Université Gustave Eiffel  <br>
 
 ---
 
