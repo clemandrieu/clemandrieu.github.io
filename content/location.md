@@ -1,6 +1,6 @@
 ---
 title: "Location"
-date: 25-02-2025
+date:
 hidemeta: true
 description: "Clement Andrieu mailing and office addresses at the Université Gustave Eiffel."
 
