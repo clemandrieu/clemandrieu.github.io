@@ -18,7 +18,7 @@ title: "Publications"
 
 <div class="publication-item">
 
-**Andrieu, C. F. A.**, & Steiner, D. D. (2025). Why bother? Becoming helpless and depressed at work when voice is non-instrumental in an unfair organizational environment. *Pratiques Psychologiques, 31*(2), 119–134. [DOI](https://doi.org/10.1016/j.prps.2024.11.003) [<a class="pub-button" href="#">Download</a>
+**Andrieu, C. F. A.**, & Steiner, D. D. (2025). Why bother? Becoming helpless and depressed at work when voice is non-instrumental in an unfair organizational environment. *Pratiques Psychologiques, 31*(2), 119–134. [DOI](https://doi.org/10.1016/j.prps.2024.11.003) [<a class="pub-button" href="#">Download</a>]
 
 </div>
 
