@@ -1,0 +1,18 @@
+.publication-item {
+  margin-bottom: 2rem;
+  padding: 1.2rem 1.4rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #fafafa;
+}
+
+.pub-button {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1px solid #d1d5db;
+}
