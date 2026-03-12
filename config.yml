@@ -59,7 +59,7 @@ params:
           buttons:
             - name: Publications
               url: publications/
-            - name: Data
+            - name: About me
               url: data/
           #  - name: Books
           #    url: books/
