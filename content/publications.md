@@ -8,7 +8,7 @@ title: "Publications"
 
 **Andrieu, C. F. A.**, Bartoletti, R. L., Milhabet, I., Denis-Noël, A., & Steiner, D. D. (2026). From speaking up to shutting down: The cognitive costs of non-instrumental voice. *Acta Psychologica, 262*, 106163. [DOI](https://doi.org/10.1016/j.actpsy.2025.106163)
 
-<a class="pub-button" href="/voice-costs.pdf">Download</a>
+<a class="pub-button" href="/voice-costs.pdf" target="_blank" rel="noopener">Download</a>
 
 </div>
 
