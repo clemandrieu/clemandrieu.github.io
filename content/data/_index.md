@@ -12,12 +12,12 @@ My research focuses on how people perceive, interpret, and respond to their envi
 
 ## Research interests
 
-- Psychological control and empowerment  
-- Learned helplessness and disengagement  
-- Social cognition and intergroup relations  
-- Workplace behavior and organizational justice  
-- Decision-making under uncertainty and risk  
-- Mobility, road interactions, and safety  
+Psychological control and empowerment  
+Learned helplessness and disengagement  
+Social cognition and intergroup relations  
+Workplace behavior and organizational justice  
+Decision-making under uncertainty and risk  
+Mobility, road interactions, and safety  
 
 ---
 
@@ -32,6 +32,7 @@ More broadly, my work aims to better understand the psychological mechanisms und
 ## Teaching & mentoring
 
 Alongside my research, I have taught a wide range of courses in social psychology, work and organizational psychology, research methods, and statistics, at undergraduate and graduate levels. I particularly enjoy teaching methodology and helping students develop analytical and critical thinking skills. 
+
 ---
 
 ## Beyond academia
