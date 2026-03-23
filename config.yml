@@ -21,9 +21,9 @@ menu:
         - name: About me
           url: data/
           weight: 3 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 4
+       # - name: Blog
+       #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+       #   weight: 4
 
 params:
     description: "I am a Postdoctoral Fellow in Social Psychology at Université Gustave Eiffel."
@@ -59,16 +59,10 @@ params:
           buttons:
             - name: Publications
               url: publications/
-            - name: About me
-              url: data/
-          #  - name: Books
-          #    url: books/
             - name: Courses
               url: courses/
-          #  - name: Tags
-          #    url: tags/
-          #  - name: Archive
-          #    url: archive/
+            - name: About me
+              url: data/
           #  - name: Blog
           #    url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
