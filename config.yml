@@ -54,7 +54,7 @@ params:
           title: Clement Andrieu (F. A.)
           subtitle: "Welcome to my website! I am a Postdoctoral Fellow in Social Psychology at Université Gustave Eiffel."
           imageUrl: "picture.jpeg"
-         # imageWidth: 160
+          imageWidth: 160
          # imageHeight: 160
           buttons:
             - name: Publications
