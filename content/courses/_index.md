@@ -12,7 +12,7 @@ My teaching focuses on developing students’ analytical skills, methodological 
 
 ## Teaching experience
 
-- ~290 hours of teaching (undergraduate and graduate levels)  
+- ~35° hours of teaching (undergraduate and graduate levels)  
 - Courses delivered in French and English  
 - Teaching experience at Université Côte d’Azur and Université Paris Cité  
 
