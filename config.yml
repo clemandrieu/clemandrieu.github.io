@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Clement Andrieu (F. A.)
-          subtitle: "Welcome to my website! I am a Postdoctoral Fellow in Social Psychology at Université Gustave Eiffel."
+          subtitle: "Welcome to my website! I am an Associate Professor (Maître de conférences) in Social Psychology at Université Paris-Est Créteil."
          # imageUrl: "picture.jpeg"
          # imageWidth: 160
          # imageHeight: 160
@@ -70,7 +70,7 @@ params:
 #        - name: CV
 #          url: cv.pdf
         - name: Email
-          url: mailto:clement.andrieu@univ-eiffel.fr
+          url: mailto:clement.andrieu@u-pec.fr
 #        - name: Zoom
 #          url: https://www.zoom.us/my/igelfeld
         - name: Location
