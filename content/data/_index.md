@@ -4,7 +4,7 @@ title: "About me"
 
 ## About me
 
-I am a postdoctoral researcher in social psychology at Université Gustave Eiffel, working at the Laboratoire de Psychologie et d’Ergonomie Appliquées (LaPEA).
+I am an Associate Professor (Maître de conférences) in social psychology at Université Paris-Est Créteil, working at the Laboratoire Interdisciplinaire de Recherche sur les Transformations des pratiques Éducatives et des pratiques Sociales (LIRTES).
 
 My research focuses on how people perceive, interpret, and respond to their environment in contexts where control, uncertainty, and social interactions play a central role. More specifically, I study psychological control, empowerment, learned helplessness, and decision-making across different domains such as organizations, mobility, and everyday social interactions.
 
@@ -23,9 +23,13 @@ Mobility, road interactions, and safety
 
 ## Current work
 
-My current research explores how the type of vehicle people use influences their perception of space, power, and interactions with others on the road. Using experimental designs and immersive methods such as virtual reality, I study how social identity, perceived control, and power shape behavior in traffic situations.
+My current research examines how people move from resignation to agency: the psychosocial mechanisms that lead individuals and groups to act, or to stop acting, in contexts marked by uncertainty, constraint, and power asymmetries. At LIRTES, I am developing a research program around three lines of work:
 
-More broadly, my work aims to better understand the psychological mechanisms underlying behavior in complex social environments, with applications to well-being, safety, and public policy.
+ - Meaning and agency at work: how collective dynamics of (dis)empowerment shape the search for meaning at work, and which levers support people’s capacity to act (organizations, human-service professions, education).
+ - Acting in the face of the environmental crisis: what prevents people from moving from ecological awareness to action (“I know, I want to, but I don’t”), and which conditions foster engagement and agency in the face of eco-anxiety.
+ - Agency and recognition at work: how some professional positions reduce perceived agency, and how recognition and the capacity to act can be restored for people in vulnerable positions.
+
+I also continue to study social judgment and power relations, notably on the road as an ecological setting for intergroup dynamics, and I collaborate on projects about harassing organizational cultures, future thinking and socio-ecological change, and interventions supporting worker voice.
 
 ---
 
